@@ -1,21 +1,21 @@
-#### Twitter Profile Scraper
+# Twitter Profile Scraper
 
 Interested in scraping Twitter profiles? Get it here: [Twitter Profile Scraper](https://datamagnet.co). Extract detailed information from Twitter profiles and posts efficiently.
 
-**Pricing**  
+## Pricing
 For better pricing, you can sign up here: [Datamagnet Pricing](https://datamagnet.co)
 
-**Features**
+## Features
 
 - **Data Export and Integration:** Export the extracted data in JSON or CSV format. Customize the fields to integrate with other tools and platforms for in-depth analysis.
 - **Automatic Retry and Error Handling:** The scraper includes built-in retry functionality to handle network issues or timeouts gracefully, ensuring uninterrupted data collection.
 - **Ability to Resume Last Failed Runs:** Resume data collection from the last failed attempt with a simple click, allowing you to pick up where you left off.
 
-**Integrations**
+## Integrations
 
 Use [Make](https://www.make.com/en/register) to integrate the Twitter Profile Scraper with other SaaS platforms, creating custom automation flows.
 
-**Sample Output**
+## Sample Output
 
 Here is a sample output of this scraper:
 
